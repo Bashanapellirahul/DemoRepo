@@ -5,6 +5,7 @@ public class Contract extends Emp {
 public void bonos2() {
 		
 		System.out.println("Bonous to contract emp is 10000");
+		System.out.println("pushing to git hub");
 	}
 
 @Override
